@@ -1,0 +1,3 @@
+[submodule "php-ext-embed"]
+	path = php-ext-embed
+	url = git@github.com:reeze/php-ext-embed.git

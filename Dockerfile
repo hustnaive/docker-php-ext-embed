@@ -1,4 +1,4 @@
-FROM hustnaive/php-ext-dev:5.5.29
+FROM hustnaive/php-ext-dev
 MAINTAINER Fang Liang <hustnaive@me.com>
 
 ADD php-ext-embed /tmp/php-ext-embed
